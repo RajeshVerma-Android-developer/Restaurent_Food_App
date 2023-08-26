@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341077059452",
+    "firebase_url": "https://restaurent-food-app-fc36e-default-rtdb.firebaseio.com",
+    "project_id": "restaurent-food-app-fc36e",
+    "storage_bucket": "restaurent-food-app-fc36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341077059452:android:1ff9cbb804886f7eafa6f9",
+        "android_client_info": {
+          "package_name": "com.example.restaurentfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341077059452-7rq5ghp0o5u6adp2ski3nrqn3hcv18ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvO5RXIOUBLyVeinACbFiL7dCxGnxvh18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341077059452-7rq5ghp0o5u6adp2ski3nrqn3hcv18ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
